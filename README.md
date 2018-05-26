@@ -2,6 +2,8 @@
 
 - A clear problem statement
 
+- Join Slack and be online to help others :)
+
 - Create a GitHub repo with a readme about the problem you are trying to solve!
 
 - Wireframes
